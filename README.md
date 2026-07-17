@@ -1,10 +1,10 @@
 # tp2-fronted-
 # TP 2 Développement
 
-## Projet : TechVision
+## Projet : Gabon Digital Solutions (GDS)
 
 ### Présentation
-TechVision est un site web d'entreprise fictive réalisé dans le cadre du TP 2 de développement web.
+Gabon Digital Solutions (GDS) est un site web d'entreprise fictive réalisé dans le cadre du TP 2 de développement web.
 
 Le site contient :
 - Une page d'accueil
